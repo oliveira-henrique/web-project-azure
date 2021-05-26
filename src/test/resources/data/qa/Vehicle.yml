@@ -1,0 +1,51 @@
+vehicle_data:
+   make: "Ford"
+   model: "Three-Wheeler"
+   cylinder_capacity_ccm: "12"
+   engine_performance_kw: "21"
+   date_of_manufacture: "05/17/2021"
+   number_of_seats: "3"
+   right_hand_drive: "Yes"
+   number_of_seats2: "1"
+   fuel_type: "Petrol"
+   pay_load_kg: "21"
+   total_weight_kg: "212"
+   list_price: "2122"
+   license_plate_number: "222"
+   annual_mileage_mi: "2222"
+     
+insurant_data:
+   first_name: "Caio"
+   last_name: "Oliveira"
+   date_of_birth: "12/01/1993"  
+   gender: "Male"
+   street_address: "Avenida Paulista"
+   country: "Brazil"
+   zip_code: "01310100"
+   city: "São Paulo"
+   occupation: "Farmer"
+   hobbies: "Cliff Diving"
+   website: "www.carro.com"
+   picture: "c:/carro/"
+       
+product_data:
+  start_date: "07/17/2021"
+  insurance_sum: "7.000.000,00"
+  merit_rating: "Malus 10"
+  damage_insurance : "Full Coverage"
+  optional_products: "Euro Protection"
+  courtesy_carLegal_defenseInsurance: "No"
+  
+price_option:
+  make: ""
+  
+quote:
+  email: "caio@mail.com"
+  phone: "11999999999"
+  username: "caio"
+  password: "Caio1234"
+  confirm_password: "Caio1234"
+  comments: "Teste"
+
+
+
